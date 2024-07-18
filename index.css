@@ -694,3 +694,6 @@ body {
     color: green;
     margin-top: 10px;
 }
+finddoc:hover {
+    background-color: blue;
+    color: white;
